@@ -1,4 +1,5 @@
 #include "search_algos.h"
+#include <stddef.h>
 /**
  * binary_search - a binary search algorithm
  * @array: array we search in
